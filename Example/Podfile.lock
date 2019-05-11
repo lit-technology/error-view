@@ -1,0 +1,16 @@
+PODS:
+  - ErrorView (1.0.0)
+
+DEPENDENCIES:
+  - ErrorView (from `../`)
+
+EXTERNAL SOURCES:
+  ErrorView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ErrorView: f63a640e630a6a631246c49a783294f5707dc4f7
+
+PODFILE CHECKSUM: eb4dc78f6894ce91d2b201a11a19b134fa1efe17
+
+COCOAPODS: 1.6.1
